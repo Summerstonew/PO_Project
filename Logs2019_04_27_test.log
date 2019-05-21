@@ -1,0 +1,9 @@
+[2019-04-27 22:18:03,500] Log.py-><module> line:59 [ERROR]首页error 日志
+[2019-04-27 22:18:03,500] Log.py-><module> line:63 [INFO]活动页info 日志
+[2019-04-27 22:18:03,500] Log.py-><module> line:65 [CRITICAL]支付critical 日志
+[2019-04-27 22:18:13,940] Log.py-><module> line:59 [ERROR]首页error 日志
+[2019-04-27 22:18:13,940] Log.py-><module> line:63 [INFO]活动页info 日志
+[2019-04-27 22:18:13,940] Log.py-><module> line:65 [CRITICAL]支付critical 日志
+[2019-04-27 22:24:43,921] Log.py-><module> line:58 [ERROR]首页error 日志
+[2019-04-27 22:24:43,921] Log.py-><module> line:62 [INFO]活动页info 日志
+[2019-04-27 22:24:43,923] Log.py-><module> line:64 [CRITICAL]支付critical 日志
